@@ -1,2 +1,2 @@
-# Frist--Girhub
+# Frist--Github
 The Frist GitHub Repository
